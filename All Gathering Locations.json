@@ -1,5 +1,5 @@
 [
-//Fishing
+//#region Fishing
 
 /*
 Messed up trout nodes in the middle of fantastic voyage
@@ -19,7 +19,7 @@ Messed up trout nodes in the middle of fantastic voyage
 2658, 37, -4140
 */
 
-//Carp
+//#region Carp
     {
 	  "name": "[2] Carp [Lv.30]",
 	  "color": "#955400",
@@ -822,8 +822,9 @@ Messed up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+//#endregion
 
-//Icefish
+//#region Icefish
     {
 	  "name": "[3] Icefish [Lv.40]",
 	  "color": "#55ffff",
@@ -1916,8 +1917,9 @@ Messed up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+//#endregion
 
-//Gylia
+//#region Gylia
     {
 	  "name": "[6] Gylia Fish [Lv.70]",
 	  "color": "#ff55ff",
@@ -3056,8 +3058,9 @@ Messed up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+//#endregion
 
-//Bass
+//#region Bass
     {
 	  "name": "[9] Bass [Lv.80]",
 	  "color": "#55ff55",
@@ -5062,8 +5065,9 @@ Messed up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+//#endregion
 
-//Sky
+//#region Sky
     {
 	  "name": "[7] Starfish [Lv.100]",
 	  "color": "#ffff55",
@@ -5730,8 +5734,9 @@ Messed up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+//#endregion
 
-//Dernic
+//#region Dernic
     {
 	  "name": "[2] Dernic Fish [Lv.110]",
 	  "color": "#aa00aa",
@@ -5897,9 +5902,12 @@ Messed up trout nodes in the middle of fantastic voyage
 	  
     },
 
-//Farming
+//#endregion
+//#endregion
 
-//Hops
+//#region Farming
+
+//#region Hops
     {
 	  "name": "[11] Hops [Lv.40]",
 	  "color": "#0faa15",
@@ -6197,8 +6205,8 @@ Messed up trout nodes in the middle of fantastic voyage
 	  */
 
     },
-
-//Decay Roots
+//#endregion 
+//#region Decay Roots
     {
 	  "name": "[6] Decay Roots [Lv.70]",
 	  "color": "#56390b",
@@ -6737,8 +6745,8 @@ Messed up trout nodes in the middle of fantastic voyage
 	  */
 
     },
-
-//Rice
+//#endregion 
+//#region Rice
     {
 	  "name": "[3] Rice [Lv.80]",
 	  "color": "#ddfff4",
@@ -7382,7 +7390,8 @@ Messed up trout nodes in the middle of fantastic voyage
 
     },
 
-//Hemp
+//#endregion 
+//#region Hemp
     {
 	  "name": "[1] Hemp [Lv.100]",
 	  "color": "#00aa73",
@@ -8018,7 +8027,8 @@ Messed up trout nodes in the middle of fantastic voyage
 
 
 
-//Dernic
+//#endregion 
+//#region Dernic
     {
 	  "name": "[14] Dernic Seed [Lv.110]",
 	  "color": "#aa00aa",
@@ -8193,9 +8203,12 @@ Messed up trout nodes in the middle of fantastic voyage
 	  
     },
 	
-//Mining
+//#endregion 
+//#endregion 
 
-//Sandstone
+//#region Mining
+
+//#region Sandstone
     {
 	  "name": "[1] Sandstone [Lv.30]",
 	  "color": "#ffaa00",
@@ -8502,7 +8515,8 @@ Messed up trout nodes in the middle of fantastic voyage
 
     },
 
-//Kanderstone
+//#endregion 
+//#region Kanderstone
     {
 	  "name": "[9] Kanderstone [Lv.70]",
 	  "color": "#00aaaa",
@@ -8812,7 +8826,8 @@ Messed up trout nodes in the middle of fantastic voyage
 
     },
 
-//Diamond
+//#endregion 
+//#region Diamond
     {
 	  "name": "[7] Diamond [Lv.80]",
 	  "color": "#55ffff",
@@ -9532,7 +9547,8 @@ Messed up trout nodes in the middle of fantastic voyage
 
     },
 
-//Voidstone
+//#endregion 
+//#region Voidstone
     {
 	  "name": "[3] Voidstone [Lv.100]",
 	  "color": "#ff55ff",
@@ -10012,7 +10028,8 @@ Messed up trout nodes in the middle of fantastic voyage
 	  
     },
 	
-//Dernic
+//#endregion 
+//#region Dernic
     {
 	  "name": "[10] Dernic [Lv.110]",
 	  "color": "#aa00aa",
@@ -10203,3 +10220,5 @@ Messed up trout nodes in the middle of fantastic voyage
 	  
     }
 ]
+//#endregion 
+//#endregion 
